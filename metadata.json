@@ -1,0 +1,6 @@
+{
+  "name": "Serene Care Home",
+  "description": "Serene Care Home is a premium healthcare companion app to manage appointments, symptoms, records, meds, and video consults.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
